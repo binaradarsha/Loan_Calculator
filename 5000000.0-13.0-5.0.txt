@@ -1,0 +1,69 @@
+Loan amount: 5,000,000.0 
+Rate: 13.0 
+Period in years: 5.0 
+
+Installment = 83,333.3333333
+
+Remaining amount = 5,000,000.0	|	Monthly interest = 54,166.6666667	|	Monthly payment = 137,500.0
+Remaining amount = 4,916,666.66667	|	Monthly interest = 53,263.8888889	|	Monthly payment = 136,597.222222
+Remaining amount = 4,833,333.33333	|	Monthly interest = 52,361.1111111	|	Monthly payment = 135,694.444444
+Remaining amount = 4,750,000.0	|	Monthly interest = 51,458.3333333	|	Monthly payment = 134,791.666667
+Remaining amount = 4,666,666.66667	|	Monthly interest = 50,555.5555556	|	Monthly payment = 133,888.888889
+Remaining amount = 4,583,333.33333	|	Monthly interest = 49,652.7777778	|	Monthly payment = 132,986.111111
+Remaining amount = 4,500,000.0	|	Monthly interest = 48,750.0	|	Monthly payment = 132,083.333333
+Remaining amount = 4,416,666.66667	|	Monthly interest = 47,847.2222222	|	Monthly payment = 131,180.555556
+Remaining amount = 4,333,333.33333	|	Monthly interest = 46,944.4444444	|	Monthly payment = 130,277.777778
+Remaining amount = 4,250,000.0	|	Monthly interest = 46,041.6666667	|	Monthly payment = 129,375.0
+Remaining amount = 4,166,666.66667	|	Monthly interest = 45,138.8888889	|	Monthly payment = 128,472.222222
+Remaining amount = 4,083,333.33333	|	Monthly interest = 44,236.1111111	|	Monthly payment = 127,569.444444
+Remaining amount = 4,000,000.0	|	Monthly interest = 43,333.3333333	|	Monthly payment = 126,666.666667
+Remaining amount = 3,916,666.66667	|	Monthly interest = 42,430.5555556	|	Monthly payment = 125,763.888889
+Remaining amount = 3,833,333.33333	|	Monthly interest = 41,527.7777778	|	Monthly payment = 124,861.111111
+Remaining amount = 3,750,000.0	|	Monthly interest = 40,625.0	|	Monthly payment = 123,958.333333
+Remaining amount = 3,666,666.66667	|	Monthly interest = 39,722.2222222	|	Monthly payment = 123,055.555556
+Remaining amount = 3,583,333.33333	|	Monthly interest = 38,819.4444444	|	Monthly payment = 122,152.777778
+Remaining amount = 3,500,000.0	|	Monthly interest = 37,916.6666667	|	Monthly payment = 121,250.0
+Remaining amount = 3,416,666.66667	|	Monthly interest = 37,013.8888889	|	Monthly payment = 120,347.222222
+Remaining amount = 3,333,333.33333	|	Monthly interest = 36,111.1111111	|	Monthly payment = 119,444.444444
+Remaining amount = 3,250,000.0	|	Monthly interest = 35,208.3333333	|	Monthly payment = 118,541.666667
+Remaining amount = 3,166,666.66667	|	Monthly interest = 34,305.5555556	|	Monthly payment = 117,638.888889
+Remaining amount = 3,083,333.33333	|	Monthly interest = 33,402.7777778	|	Monthly payment = 116,736.111111
+Remaining amount = 3,000,000.0	|	Monthly interest = 32,500.0	|	Monthly payment = 115,833.333333
+Remaining amount = 2,916,666.66667	|	Monthly interest = 31,597.2222222	|	Monthly payment = 114,930.555556
+Remaining amount = 2,833,333.33333	|	Monthly interest = 30,694.4444444	|	Monthly payment = 114,027.777778
+Remaining amount = 2,750,000.0	|	Monthly interest = 29,791.6666667	|	Monthly payment = 113,125.0
+Remaining amount = 2,666,666.66667	|	Monthly interest = 28,888.8888889	|	Monthly payment = 112,222.222222
+Remaining amount = 2,583,333.33333	|	Monthly interest = 27,986.1111111	|	Monthly payment = 111,319.444444
+Remaining amount = 2,500,000.0	|	Monthly interest = 27,083.3333333	|	Monthly payment = 110,416.666667
+Remaining amount = 2,416,666.66667	|	Monthly interest = 26,180.5555556	|	Monthly payment = 109,513.888889
+Remaining amount = 2,333,333.33333	|	Monthly interest = 25,277.7777778	|	Monthly payment = 108,611.111111
+Remaining amount = 2,250,000.0	|	Monthly interest = 24,375.0	|	Monthly payment = 107,708.333333
+Remaining amount = 2,166,666.66667	|	Monthly interest = 23,472.2222222	|	Monthly payment = 106,805.555556
+Remaining amount = 2,083,333.33333	|	Monthly interest = 22,569.4444444	|	Monthly payment = 105,902.777778
+Remaining amount = 2,000,000.0	|	Monthly interest = 21,666.6666667	|	Monthly payment = 105,000.0
+Remaining amount = 1,916,666.66667	|	Monthly interest = 20,763.8888889	|	Monthly payment = 104,097.222222
+Remaining amount = 1,833,333.33333	|	Monthly interest = 19,861.1111111	|	Monthly payment = 103,194.444444
+Remaining amount = 1,750,000.0	|	Monthly interest = 18,958.3333333	|	Monthly payment = 102,291.666667
+Remaining amount = 1,666,666.66667	|	Monthly interest = 18,055.5555556	|	Monthly payment = 101,388.888889
+Remaining amount = 1,583,333.33333	|	Monthly interest = 17,152.7777778	|	Monthly payment = 100,486.111111
+Remaining amount = 1,500,000.0	|	Monthly interest = 16,250.0	|	Monthly payment = 99,583.3333333
+Remaining amount = 1,416,666.66667	|	Monthly interest = 15,347.2222222	|	Monthly payment = 98,680.5555556
+Remaining amount = 1,333,333.33333	|	Monthly interest = 14,444.4444444	|	Monthly payment = 97,777.7777778
+Remaining amount = 1,250,000.0	|	Monthly interest = 13,541.6666667	|	Monthly payment = 96,875.0
+Remaining amount = 1,166,666.66667	|	Monthly interest = 12,638.8888889	|	Monthly payment = 95,972.2222222
+Remaining amount = 1,083,333.33333	|	Monthly interest = 11,736.1111111	|	Monthly payment = 95,069.4444444
+Remaining amount = 1,000,000.0	|	Monthly interest = 10,833.3333333	|	Monthly payment = 94,166.6666667
+Remaining amount = 916,666.666667	|	Monthly interest = 9,930.55555556	|	Monthly payment = 93,263.8888889
+Remaining amount = 833,333.333333	|	Monthly interest = 9,027.77777778	|	Monthly payment = 92,361.1111111
+Remaining amount = 750,000.0	|	Monthly interest = 8,125.0	|	Monthly payment = 91,458.3333333
+Remaining amount = 666,666.666667	|	Monthly interest = 7,222.22222222	|	Monthly payment = 90,555.5555556
+Remaining amount = 583,333.333333	|	Monthly interest = 6,319.44444444	|	Monthly payment = 89,652.7777778
+Remaining amount = 500,000.0	|	Monthly interest = 5,416.66666667	|	Monthly payment = 88,750.0
+Remaining amount = 416,666.666667	|	Monthly interest = 4,513.88888889	|	Monthly payment = 87,847.2222222
+Remaining amount = 333,333.333333	|	Monthly interest = 3,611.11111111	|	Monthly payment = 86,944.4444444
+Remaining amount = 250,000.0	|	Monthly interest = 2,708.33333333	|	Monthly payment = 86,041.6666667
+Remaining amount = 166,666.666667	|	Monthly interest = 1,805.55555556	|	Monthly payment = 85,138.8888889
+Remaining amount = 83,333.3333333	|	Monthly interest = 902.777777778	|	Monthly payment = 84,236.1111111
+
+Total = 6,652,083.33333
+Extra = 1,652,083.33333
